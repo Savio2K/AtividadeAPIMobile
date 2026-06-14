@@ -23,3 +23,11 @@ Foi utilizada a **AwesomeAPI** (Cotação de Moedas), consumindo o endpoint segu
    * Valor de Venda (R$)
    * Variação Percentual Diária
 6. **Tratamento de Erros:** Tratamento estruturado para lidar com ausência de conexão com a internet ou digitação de siglas inválidas (retornando erro 404 amigável sem quebrar o app).
+
+
+### 📱 Demonstração do Aplicativo
+<img width="468" height="615" alt="Captura de tela 2026-06-14 185959" src="https://github.com/user-attachments/assets/b815b335-afc4-4442-a788-54b6df3d1c68" />
+<img width="470" height="615" alt="Captura de tela 2026-06-14 190036" src="https://github.com/user-attachments/assets/75486e92-b3f0-42fa-ac42-f5256fd6365b" />
+<img width="470" height="618" alt="Captura de tela 2026-06-14 191406" src="https://github.com/user-attachments/assets/de0209c6-5e9a-4981-910a-4cc0cc1af60d" />
+
+
